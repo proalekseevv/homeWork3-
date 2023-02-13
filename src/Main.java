@@ -107,12 +107,6 @@ public class Main {
         var totalNumberOfHours = totalHours + totalHours2;
         var totalNumberOfPeople = addedPeople + totalEmployees;
         System.out.println("Если в компании работает " + totalNumberOfPeople + " человека, то всего " + totalNumberOfHours + " часов работы может быть поделено между сотрудниками." );
-
-
-
     }
-
-
-
 
 }
